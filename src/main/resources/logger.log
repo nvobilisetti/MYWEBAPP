@@ -1,0 +1,149 @@
+2017-08-18 13:47:08 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-19 14:42:19 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-20 21:22:26 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-20 21:22:27 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-08-20 21:22:27 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/ Protocol: HTTP/1.1
+2017-08-20 21:22:28 INFO  MyListner:52 - Session created org.apache.catalina.session.StandardSessionFacade@2c7dc425
+2017-08-20 21:22:29 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-08-20 21:22:29 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/login-form.jsp Protocol: HTTP/1.1
+2017-08-20 21:22:36 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-08-20 21:22:36 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/LoginServlet Protocol: HTTP/1.1
+2017-08-20 21:22:36 INFO  DataBaseConnect:27 - Created a Database Connection Object
+2017-08-20 21:22:36 INFO  LoginServlet:51 - Connected to Database
+2017-08-20 21:22:36 INFO  LoginServlet:59 - LoginServlet: org.apache.catalina.session.StandardSessionFacade@2c7dc425
+2017-08-20 21:22:36 INFO  MyListner:88 - HttpSessionBindingEvent added loginTime
+2017-08-20 21:22:36 INFO  MyListner:88 - HttpSessionBindingEvent added logIn
+2017-08-20 21:22:36 INFO  LoginServlet:62 - 
+2017-08-20 21:22:36 INFO  LoginServlet:63 - Redirected to CarServlet
+2017-08-20 21:22:36 INFO  DataBaseConnect:27 - Created a Database Connection Object
+2017-08-20 21:22:36 INFO  CarServlet:48 - Connected to Database
+2017-08-20 21:22:40 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-08-20 21:22:40 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/LogoutServlet Protocol: HTTP/1.1
+2017-08-20 21:22:40 INFO  LogoutServlet:38 - JSESSIONID=D19C326FC7A42E1BD4ABA1D2C2900D6D
+2017-08-20 21:22:40 INFO  LogoutServlet:45 - User=null
+2017-08-20 21:22:40 INFO  MyListner:98 - Current Locale US
+2017-08-20 21:22:40 INFO  MyListner:101 - Login time :2017-08-20 21:22:36.441
+2017-08-20 21:22:40 INFO  MyListner:102 - Logout Time :2017-08-20 21:22:40.513
+2017-08-20 21:22:40 INFO  MyListner:104 - Session Time :4
+2017-08-20 21:22:40 INFO  DataBaseConnect:27 - Created a Database Connection Object
+2017-08-20 21:22:40 INFO  MyListner:68 - Session Destroyed org.apache.catalina.session.StandardSessionFacade@2c7dc425
+2017-08-20 21:22:40 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-08-20 21:22:40 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/index.jsp Protocol: HTTP/1.1
+2017-08-20 21:22:40 INFO  MyListner:52 - Session created org.apache.catalina.session.StandardSessionFacade@3c258cef
+2017-08-21 08:08:53 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 11:52:28 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 11:53:33 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 12:06:04 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 12:24:56 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 12:28:18 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 12:30:06 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 12:36:56 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 12:39:14 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 12:43:29 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 12:53:13 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 13:11:12 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 13:23:46 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 13:25:39 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 13:59:05 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 14:03:05 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 14:09:12 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 14:17:06 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 14:19:18 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 14:29:26 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 14:31:13 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 14:41:20 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-21 14:42:51 INFO  LoggingFilter:67 - Logging filter initialized
+2017-08-22 01:45:03 INFO  LoggingFilter:67 - Logging filter initialized
+2017-10-11 17:08:33 INFO  LoggingFilter:67 - Logging filter initialized
+2017-10-11 17:08:35 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-10-11 17:08:35 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/ Protocol: HTTP/1.1
+2017-10-11 17:08:36 INFO  MyListner:52 - Session created org.apache.catalina.session.StandardSessionFacade@50d5385a
+2017-10-11 17:08:44 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-10-11 17:08:44 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/login-form.jsp Protocol: HTTP/1.1
+2017-10-11 17:09:16 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-10-11 17:09:16 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/LoginServlet Protocol: HTTP/1.1
+2017-10-11 17:09:16 INFO  DataBaseConnect:27 - Created a Database Connection Object
+2017-10-11 17:09:16 INFO  LoginServlet:51 - Connected to Database
+2017-10-11 17:09:16 INFO  LoginServlet:67 - Redirected to login-failed
+2017-10-11 17:09:30 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-10-11 17:09:30 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/login-form.jsp Protocol: HTTP/1.1
+2017-10-11 17:09:32 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-10-11 17:09:32 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/registration-form.jsp Protocol: HTTP/1.1
+2017-10-11 17:09:52 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-10-11 17:09:52 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/RegistrationServlet Protocol: HTTP/1.1
+2017-10-11 17:09:52 INFO  DataBaseConnect:27 - Created a Database Connection Object
+2017-10-11 17:09:52 INFO  RegistrationServlet:51 - Connected to Database
+2017-10-11 17:09:53 INFO  UserDAO:25 - 1 Rows updated in user table
+2017-10-11 17:09:53 INFO  RegistrationServlet:59 - User Registed
+2017-10-11 17:09:53 INFO  RegistrationServlet:61 - Redirected to CarServlet
+2017-10-11 17:10:33 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-10-11 17:10:33 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/LoginServlet Protocol: HTTP/1.1
+2017-10-11 17:10:33 INFO  DataBaseConnect:27 - Created a Database Connection Object
+2017-10-11 17:10:33 INFO  LoginServlet:51 - Connected to Database
+2017-10-11 17:10:33 INFO  LoginServlet:59 - LoginServlet: org.apache.catalina.session.StandardSessionFacade@50d5385a
+2017-10-11 17:10:33 INFO  MyListner:88 - HttpSessionBindingEvent added loginTime
+2017-10-11 17:10:33 INFO  MyListner:88 - HttpSessionBindingEvent added logIn
+2017-10-11 17:10:33 INFO  LoginServlet:62 - 
+2017-10-11 17:10:33 INFO  LoginServlet:63 - Redirected to CarServlet
+2017-10-11 17:10:33 INFO  DataBaseConnect:27 - Created a Database Connection Object
+2017-10-11 17:10:33 INFO  CarServlet:48 - Connected to Database
+2017-10-11 17:10:39 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-10-11 17:10:39 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/add-car.jsp Protocol: HTTP/1.1
+2017-10-11 17:10:39 INFO  AuthenticationFilter:48 - Requested Resource::/webapp/add-car.jsp
+2017-10-11 17:10:39 INFO  AuthenticationFilter:50 - org.apache.catalina.session.StandardSessionFacade@50d5385a
+2017-10-11 17:10:39 INFO  AuthenticationFilter:51 - 
+2017-10-11 17:10:39 INFO  AuthenticationFilter:57 - Unauthorized access request
+2017-10-11 17:10:39 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-10-11 17:10:39 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/index.jsp Protocol: HTTP/1.1
+2017-10-11 17:10:50 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-10-11 17:10:50 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/login-form.jsp Protocol: HTTP/1.1
+2017-10-11 17:10:58 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-10-11 17:10:58 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/LoginServlet Protocol: HTTP/1.1
+2017-10-11 17:10:58 INFO  DataBaseConnect:27 - Created a Database Connection Object
+2017-10-11 17:10:58 INFO  LoginServlet:51 - Connected to Database
+2017-10-11 17:10:58 INFO  LoginServlet:59 - LoginServlet: org.apache.catalina.session.StandardSessionFacade@50d5385a
+2017-10-11 17:10:58 INFO  LoginServlet:62 - 
+2017-10-11 17:10:58 INFO  LoginServlet:63 - Redirected to CarServlet
+2017-10-11 17:10:58 INFO  DataBaseConnect:27 - Created a Database Connection Object
+2017-10-11 17:10:58 INFO  CarServlet:48 - Connected to Database
+2017-10-11 17:11:00 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-10-11 17:11:00 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/add-car.jsp Protocol: HTTP/1.1
+2017-10-11 17:11:00 INFO  AuthenticationFilter:48 - Requested Resource::/webapp/add-car.jsp
+2017-10-11 17:11:00 INFO  AuthenticationFilter:50 - org.apache.catalina.session.StandardSessionFacade@50d5385a
+2017-10-11 17:11:00 INFO  AuthenticationFilter:51 - 
+2017-10-11 17:11:00 INFO  AuthenticationFilter:57 - Unauthorized access request
+2017-10-11 17:11:00 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-10-11 17:11:00 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/index.jsp Protocol: HTTP/1.1
+2017-10-11 17:11:09 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-10-11 17:11:09 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/login-form.jsp Protocol: HTTP/1.1
+2017-10-11 17:11:15 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-10-11 17:11:15 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/LoginServlet Protocol: HTTP/1.1
+2017-10-11 17:11:15 INFO  DataBaseConnect:27 - Created a Database Connection Object
+2017-10-11 17:11:15 INFO  LoginServlet:51 - Connected to Database
+2017-10-11 17:11:15 INFO  LoginServlet:67 - Redirected to login-failed
+2017-10-11 17:11:18 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-10-11 17:11:18 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/login-form.jsp Protocol: HTTP/1.1
+2017-10-11 17:11:27 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-10-11 17:11:27 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/LoginServlet Protocol: HTTP/1.1
+2017-10-11 17:11:27 INFO  DataBaseConnect:27 - Created a Database Connection Object
+2017-10-11 17:11:27 INFO  LoginServlet:51 - Connected to Database
+2017-10-11 17:11:27 INFO  LoginServlet:59 - LoginServlet: org.apache.catalina.session.StandardSessionFacade@50d5385a
+2017-10-11 17:11:27 INFO  LoginServlet:62 - 
+2017-10-11 17:11:27 INFO  LoginServlet:63 - Redirected to CarServlet
+2017-10-11 17:11:27 INFO  DataBaseConnect:27 - Created a Database Connection Object
+2017-10-11 17:11:27 INFO  CarServlet:48 - Connected to Database
+2017-10-11 17:11:29 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-10-11 17:11:29 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/LogoutServlet Protocol: HTTP/1.1
+2017-10-11 17:11:29 INFO  LogoutServlet:38 - JSESSIONID=C91D739FE213ED303618438EAF139F44
+2017-10-11 17:11:29 INFO  LogoutServlet:45 - User=null
+2017-10-11 17:11:29 INFO  MyListner:88 - HttpSessionBindingEvent added LogOut
+2017-10-11 17:11:29 INFO  MyListner:98 - Current Locale US
+2017-10-11 17:11:29 INFO  MyListner:101 - Login time :2017-10-11 17:11:29.732
+2017-10-11 17:11:29 INFO  MyListner:102 - Logout Time :2017-10-11 17:11:29.733
+2017-10-11 17:11:29 INFO  MyListner:104 - Session Time :0
+2017-10-11 17:11:29 INFO  DataBaseConnect:27 - Created a Database Connection Object
+2017-10-11 17:11:29 INFO  MyListner:68 - Session Destroyed org.apache.catalina.session.StandardSessionFacade@50d5385a
+2017-10-11 17:11:29 INFO  MyListner:77 - ServletRequestAttributeEventorg.apache.catalina.ASYNC_SUPPORTED
+2017-10-11 17:11:29 INFO  LoggingFilter:51 - User Logged !  User IP: 0:0:0:0:0:0:0:1 Resource File: /webapp/index.jsp Protocol: HTTP/1.1
+2017-10-11 17:11:29 INFO  MyListner:52 - Session created org.apache.catalina.session.StandardSessionFacade@56e0c5a9
+2017-10-17 17:21:31 INFO  LoggingFilter:67 - Logging filter initialized
